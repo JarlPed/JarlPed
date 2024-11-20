@@ -10,8 +10,12 @@ I'm primarly an engineer more-or-less selfthought programmer that have taken job
   - wXWidgets: Learning resources for the C++ GUI framework, including modernizations. 
   - ... and a lot more to come.
 
+### 💡 I'm interested in:
+  - C/C++ Cross platform applications
+  - Computational physics
+  - DBMS & "Big Data"
 
-- 🔗 Links to my pages on the WWW:
+### 🔗 Links to my pages on the WWW:
   - :octocat: [GitHub, you're already here!] (https://github.com/JarlPed)
   - 💼   [LinkedIn](https://www.linkedin.com/in/jarl-heer/)
 
